@@ -2,6 +2,7 @@
 
 > Provides various miscellaneous view methods
 
+This is intended mainly for personal use.
 
 ## Installation
 
